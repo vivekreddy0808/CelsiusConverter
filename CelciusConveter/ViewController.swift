@@ -33,6 +33,7 @@ class ViewController: UIViewController {
             if(result == "")
             {
                 return
+                //print("Return Nil Value")
             }
             else
             {
